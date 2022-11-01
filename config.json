@@ -1,0 +1,17 @@
+{
+  "gamepath": "C:\\Games\\Diablo II Resurrected\\D2R.exe",
+  "commandline": "",
+  "modname": "my_mod",
+  "botpath": "C:\\path\\to\\bot.exe",
+  "botprofile": "bot-profile.json",
+  "botapi": "http://localhost:8080/",
+  "charname": "CharacterName",
+  "window": {
+    "X": 0,
+    "Y": 0,
+    "Width": 1920,
+    "Height": 1080
+  },
+  "gamestarttimeout": 10000,
+  "accountloadtimeout": 8000
+}
